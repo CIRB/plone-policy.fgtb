@@ -7,7 +7,7 @@
       name="default"
       title="policy.fgtb"
       directory="profiles/default"
-      description='Extension profile : 'Policy of FGTB site'.'
+      description='Extension profile :A policy for FGTB plone site.'
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 

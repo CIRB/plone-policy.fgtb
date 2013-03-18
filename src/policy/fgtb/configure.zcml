@@ -7,5 +7,24 @@
   <five:registerPackage package="." initialize=".initialize" />
   <include file="profiles.zcml" />
   <include package="cirb.zopemonitoring" />
-
+  <include package="cirb.footersitemap" />
+  <include package="collective.anysurfer" />
+  <include package="collective.ckeditor" />
+  <include package="collective.contentstats" />
+  <include package="collective.easyslider" />
+  <include package="collective.js.fullcalendar" />
+  <include package="collective.linguafaq" />
+  <include package="collective.plonefinder" />
+  <include package="collective.portlet.videoanysurfer" />
+  <include package="collective.quickupload" />
+  <include package="collective.recaptcha" />
+  <include package="collective.videoanysurfer" />
+  <include package="plonetheme.fgtb" />
+  <include package="products.geoloc" />
+  <include package="Products.Maps" />
+  <include package="Products.PloneFormGen" />
+  <include package="qi.portlet.TagClouds" />
+  <include package="quintagroup.analytics" />
+  <include package="Solgema.fullcalendar" />
+  <include package="webcouturier.dropdownmenu" />
 </configure>
